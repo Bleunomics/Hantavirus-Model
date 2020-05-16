@@ -6,3 +6,6 @@ Todo list:
 ☐ Data Visualizations  
 ☐ Analysis  
 ☐ Landing Page
+
+Potential Data Sources:  
+Kaggle, Biorxiv, FigShare, Academia, Research Gate
