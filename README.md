@@ -8,4 +8,4 @@ Todo list:
 ☐ Landing Page
 
 Potential Data Sources:  
-Kaggle, Biorxiv, FigShare, Academia, Research Gate
+CDC, Kaggle, EOSDIS, Biorxiv, FigShare, Academia, Research Gate
