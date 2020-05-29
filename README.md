@@ -1,5 +1,6 @@
 # Hantavirus-Model
-Data Sceince Project **Under Construction**
+Data Science Project  
+**Under Construction**
 
 Todo list:  
 ☐ Find source data  
